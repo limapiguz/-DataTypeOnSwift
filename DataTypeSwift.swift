@@ -9,3 +9,4 @@ let octal = 0o21 //17 en notacion octal
 let hexadecimal = 0x11 //17 en notacion hexadecimal0b10001
 
 let suma = decimal + octal // #=> 34
+let gramos:Float = 85.32
