@@ -9,11 +9,11 @@ let octal = 0o21 //17 en notacion octal
 let hexadecimal = 0x11 //17 en notacion hexadecimal0b10001
 
 let suma = decimal + octal // #=> 34
-
+<<<<<<< HEAD
 let gramos:Float = 85.32
-
+=======
 // Double
 let decimal = 12.1875
 let exponente = 1.2187e1
 let hexadecimal = 0xC.3p0
-
+>>>>>>> bb82bea3ae44065318531080039326d63362e78a
